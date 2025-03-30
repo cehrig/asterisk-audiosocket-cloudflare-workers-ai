@@ -16,3 +16,5 @@ cargo run 3454 https://example.com
 ```
 
 (requires ffmpeg to be installed)
+
+[Read more](https://cehrig.dev/braindumps/2025-03-30-ai-telephone-agent.html)
